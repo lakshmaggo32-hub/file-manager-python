@@ -1,3 +1,0 @@
-hello welcome to pythomn
-
-hi guys it is python
